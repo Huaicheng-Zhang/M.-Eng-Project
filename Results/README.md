@@ -17,8 +17,13 @@ Performance comparison among three prediction models (proposed ADWL, SVR, ARIMA)
 ![Comp1](https://github.com/Huaicheng-Zhang/M.Eng-Project/blob/master/Results/a_1.png)
 ![Comp2](https://github.com/Huaicheng-Zhang/M.Eng-Project/blob/master/Results/a_2.png)
 ![Comp3](https://github.com/Huaicheng-Zhang/M.Eng-Project/blob/master/Results/a_3.png)  
-Performace comparison when capturing a congestion point:
+Performace comparison when capturing a congestion point:  
 ![Congestion](https://github.com/Huaicheng-Zhang/M.Eng-Project/blob/master/Results/congestion.png)
 
 ## Improvement
-  
+The proposed ADWL model is improved by combining with Q-learning algorithm.
+Convergence of reward of Q-learning:  
+![Image of Reward](https://github.com/Huaicheng-Zhang/M.Eng-Project/blob/master/Results/reward2.png)
+Trade-off analysis of proposed prediction model:  
+![Trade-off](https://github.com/Huaicheng-Zhang/M.Eng-Project/blob/master/Results/tradeoff.png)
+
