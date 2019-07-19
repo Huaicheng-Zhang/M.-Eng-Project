@@ -13,7 +13,12 @@ Performance of our algorithm when predicting traffic intensity of 4 Madrid locat
 
 
 ## Comparison
-  
+Performance comparison among three prediction models (proposed ADWL, SVR, ARIMA):  
+![Comp1](https://github.com/Huaicheng-Zhang/M.Eng-Project/blob/master/Results/a_1.png)
+![Comp2](https://github.com/Huaicheng-Zhang/M.Eng-Project/blob/master/Results/a_2.png)
+![Comp3](https://github.com/Huaicheng-Zhang/M.Eng-Project/blob/master/Results/a_3.png)  
+Performace comparison when capturing a congestion point:
+![Congestion](https://github.com/Huaicheng-Zhang/M.Eng-Project/blob/master/Results/congestion.png)
 
 ## Improvement
   
