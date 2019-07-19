@@ -24,6 +24,7 @@ Performace comparison when capturing a congestion point:
 The proposed ADWL model is improved by combining with Q-learning algorithm.
 Convergence of reward of Q-learning:  
 ![Image of Reward](https://github.com/Huaicheng-Zhang/M.Eng-Project/blob/master/Results/reward2.png)
+
 Trade-off analysis of proposed prediction model:  
 ![Trade-off](https://github.com/Huaicheng-Zhang/M.Eng-Project/blob/master/Results/tradeoff.png)
 
