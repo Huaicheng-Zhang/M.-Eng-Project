@@ -28,4 +28,4 @@ Convergence of reward of Q-learning:
 Trade-off analysis of proposed prediction model:  
 ![Trade-off](https://github.com/Huaicheng-Zhang/M.Eng-Project/blob/master/Results/tradeoff.png)
   
-（Please refer to the project report for more details).  
+(Please refer to the project report for more details).  
