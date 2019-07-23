@@ -5,4 +5,4 @@ This project is the M.Eng project I completed during my Master's degree concerni
 Datasets --> Data used for this project and links to the source.  
 Project Code --> Programming codes to test the performance of algorithms.  
 Results --> Images obtained from the project and comparison among different models.  
-Project Report --> Summarization and related details of the whole project.
+M. Eng Project Report --> Summarization and related details of the whole project.
